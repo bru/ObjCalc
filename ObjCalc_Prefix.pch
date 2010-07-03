@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'TestCalc' target in the 'TestCalc' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
