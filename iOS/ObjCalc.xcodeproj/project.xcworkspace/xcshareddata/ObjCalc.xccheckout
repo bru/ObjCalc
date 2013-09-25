@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CF608955-A45C-4E0E-A994-AE185F22E858</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ObjCalc</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9D847EC9-9DD7-4F0A-BAD9-FC66C5A4334B</key>
+		<string>ssh://github.com/DavidBenko/ObjCalc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS/ObjCalc/ObjCalc.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9D847EC9-9DD7-4F0A-BAD9-FC66C5A4334B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/DavidBenko/ObjCalc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9D847EC9-9DD7-4F0A-BAD9-FC66C5A4334B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9D847EC9-9DD7-4F0A-BAD9-FC66C5A4334B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ObjCalc</string>
+		</dict>
+	</array>
+</dict>
+</plist>
